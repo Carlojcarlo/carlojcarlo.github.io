@@ -1,0 +1,25 @@
+#projects,
+#about,
+#contact {
+    padding: 50px;
+}
+/*About*/
+#about p,
+#about h4 {
+    text-align: center;
+}
+
+.about-row{
+  flex-wrap: wrap;  
+}
+.about-row-experience,
+.about-row-me{
+    width: 100%;
+    padding-left: 0;
+}
+/*Contact*/
+#contact p {
+    font-size: 14px;
+}
+
+
